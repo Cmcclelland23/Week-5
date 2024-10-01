@@ -7,13 +7,13 @@
 
 body {
     background-color: #0b01D9;
-    border-top: 10px solid #FFFFFF;
+    border-top: 10px solid #000000;
 }
 
 h1 {
-    style= "color: #FFFFFF;"
+    font-style: normal #FFFFFF;
 }
 
 p {
-    style="color: #FFFFFF;"
+    
 }
